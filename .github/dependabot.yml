@@ -1,13 +1,7 @@
 version: 2
-registries:
-  wp-packages:
-    type: composer-repository
-    url: https://repo.wp-packages.org
 updates:
   - package-ecosystem: composer
     directory: "/"
-    registries:
-      - wp-packages
     schedule:
       interval: daily
     open-pull-requests-limit: 10
