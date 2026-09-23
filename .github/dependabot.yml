@@ -11,7 +11,3 @@ updates:
     groups:
       wordpress-plugins:
         patterns: ["wp-plugin/*", "wp-theme/*"]
-  - package-ecosystem: github-actions
-    directory: "/"
-    schedule:
-      interval: weekly
