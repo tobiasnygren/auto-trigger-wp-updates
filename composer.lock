@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "775f10a4729ca80c4adbcfea92dc4507",
+    "content-hash": "fe5fcc2204505898e808ce4820dcb91c",
     "packages": [
         {
             "name": "composer/installers",
@@ -1074,15 +1074,15 @@
         },
         {
             "name": "wp-plugin/wordfence",
-            "version": "7.11.7",
+            "version": "9.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/7.11.7"
+                "reference": "tags/9.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.7.11.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordfence.9.0.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -1105,15 +1105,15 @@
         },
         {
             "name": "wp-plugin/wordpress-seo",
-            "version": "24.9",
+            "version": "28.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/24.9"
+                "reference": "tags/28.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.24.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.28.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -1136,15 +1136,15 @@
         },
         {
             "name": "wp-plugin/wp-mail-smtp",
-            "version": "3.11.1",
+            "version": "4.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
-                "reference": "tags/3.11.1"
+                "reference": "tags/4.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.3.11.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.4.9.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
